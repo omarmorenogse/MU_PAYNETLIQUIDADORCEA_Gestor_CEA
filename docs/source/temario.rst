@@ -29,12 +29,12 @@ Este manual está destinado a los Gestores de los CEA que utilizan la plataforma
 4. TEMARIO DEL MANUAL
 =================
 
-**• Administración:**
+**• Administración**
 
 
-**• Operación:**
+**• Operación**
  
 
-**• Reportes:**
+**• Reportes**
 
    

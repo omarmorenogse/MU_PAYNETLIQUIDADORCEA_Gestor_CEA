@@ -146,17 +146,6 @@ Este proceso permite crear un centro en el sistema, donde debera suministrar la 
 **• Contigencia.**
 
 
-.. image:: ../images/NuevoUsuario.png
-   :width: 100%
-   :alt: Nuevo Usuario
-
-.. raw:: html
-
-   <div style="text-align: center; margin-bottom: 20px;">
-      <strong><em>Imagen. Nuevo Usuario</em></strong>
-   </div>
-
-
 Vera un listado con todas los centros creados en esta tabla. 
 
 .. image:: ../images/TablaCetros.png

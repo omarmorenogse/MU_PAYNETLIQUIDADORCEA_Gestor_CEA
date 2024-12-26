@@ -252,7 +252,7 @@ El sistema presenta una tabla con la información de las transacciones, y ofrece
    </div>
 
 7.3 Contigencia
-***********
+---------
 
 Este modulo esta para configurar la contingencia al centro, se asigna un monto de dinero a la cuenta para que puedan seguir operando en caso de problemas técnicos, como la caída de algún servicio bancario.
 Durante este período, los Pines vendidos se registran en el sistema de contingencia y son enviados a la pantalla Pines por reinyectar. 
@@ -329,7 +329,7 @@ En casos de contingencia masiva, cuando el banco notifica la caída de sus servi
 
 Puede redactar el mensaje por medio de los siguientes campos:
 
-**• Habilitar Mensaje de Contingecia ** tiene un check para marcar si desea que sea para todos (Perfil recepcionista).
+**• Habilitar Mensaje de Contingecia:** tiene un check para marcar si desea que sea para todos (Perfil recepcionista).
 
 **• Mensaje de Notificacion:** 
 

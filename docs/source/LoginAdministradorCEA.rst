@@ -40,7 +40,7 @@ Al selecionar "continuar" sera direcionado a la pantalla Clientes
 
 En el menú izquierdo de la pantalla podra navegar en los diferentes modulos que son: 
 
-.. image:: ../images/MenuGestor.png
+.. image:: ../images/MenuGestor1.png
    :width: 100%
    :alt: Menú Administrador
 
@@ -54,7 +54,7 @@ En el menú izquierdo de la pantalla podra navegar en los diferentes modulos que
 
    - Sociedades
    
-   -Centros o Sedes
+   - Centros o Sedes
 
 **• Operación:**
 

@@ -22,7 +22,7 @@ El usuario administrador tiene la opción de ver reportes
    </div>
 
 8.1 Reporte Homologado
-***********
+---------
 
 
 Genera un reporte de de las transacciones a un mes (Queda pendiente explicación)
@@ -41,7 +41,7 @@ Genera un reporte de de las transacciones a un mes (Queda pendiente explicación
 
 
 8.2 Reporte Conciliación
-***********
+---------
 
 
 Genera un reporte de de las transacciones a un mes (Queda pendiente explicación)
