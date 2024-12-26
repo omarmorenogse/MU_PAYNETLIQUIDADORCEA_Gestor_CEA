@@ -6,50 +6,35 @@
 1.	OBJETIVO
 =================
 
-Proveer el alcance con una vista general del estado real de los servicios o productos de Gse dentro de la aplicación Health Checker. 
+Proveer a los gestores de los Centros de Enseñanza Automovilística (CEA) una guía para la configuración de tarifas y la creación de usuarios con rol de recepcionista en la plataforma Paynet, permitiendo una gestión eficaz de los servicios y personal.
 
 2. ALCANCE
 =================
 
-Este manual pretende proporcionar a los usuarios una guía completa sobre el uso efectivo de la plataforma Health Checker. Se centra en ofrecer instrucciones detalladas y claras para aprovechar al máximo las funcionalidades disponibles, asegurando una experiencia de usuario fluida y satisfactoria.
+Este manual está destinado a los Gestores de los CEA que utilizan la plataforma Paynet. Cubre los procedimientos para configurar tarifas y gestionar la creación de usuarios de tipo recepcionista.
 
 3. DEFINICIONES
 =================
 
-•	Manual de usuario: Guía o tutorial para usar el servicio.
-•	Health Checker: es una aplicación web para el monitoreo del estado de un conjunto de servicios asociados.
-•	Monitoreo: Realiza las peticiones a los servicios asociados y analiza las respuestas obtenidas.
-•	Visualización: Muestra el estado actual de los servicios, el historial de resultados y las alertas generadas.
+**•Tarifa:** Precio asignado a los distintos servicios ofrecidos por el CEA, configurado en la plataforma Paynet y ajustable cada tres meses.
 
+**•Centro o Sede:** Unidad operativa del CEA que se gestiona dentro de Paynet para aplicar configuraciones como tarifas y usuarios.
+
+**•Valor Servicio:** Importe específico que se cobra por cada categoría de servicio en el CEA, el cual se puede ajustar en el formulario de tarifas de Paynet.
+
+**•Rol Recepcionista:** Perfil de usuario en Paynet con permisos específicos para realizar tareas operativas y de atención al cliente en el CEA.
+
+**•Formulario de Usuario:** Sección dentro de Paynet donde se crea y configura la información de un nuevo usuario, incluyendo la asignación de roles y credenciales de acceso.
 
 4. TEMARIO DEL MANUAL
 =================
 
-Inicio de sesión.
-Estado producto o servicio.
-Cambio de contraseña.
-Búsqueda Rápida.
-Cerrar sesión.
-
-.. 4.1.1	Título de tercer nivel
-.. ****************************
-
-.. Párrafo donde se visualiza la información de esta sección, dando al lector conocimiento completo sobre el tema a tratar.
+**• Administración:**
 
 
-.. 4.1.1.1 Título de cuarto nivel
-.. ^^^^^^^^^^^^^^^^^^^^^^^^
+**• Operación:**
+ 
 
-.. Párrafo donde se visualiza la información de esta sección, dando al lector conocimiento completo sobre el tema a tratar.
-
-.. 4.1.1.1.1 Título de quinto nivel
-.. ~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. Párrafo donde se visualiza la información de esta sección, dando al lector conocimiento completo sobre el tema a tratar.
-
-
-.. CONTROL DE CAMBIOS
-.. =================
-
+**• Reportes:**
 
    

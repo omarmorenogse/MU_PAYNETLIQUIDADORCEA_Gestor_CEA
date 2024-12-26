@@ -1,14 +1,18 @@
 
- 
 .. image:: ../images/gseIcon.png
-   :width: 40%
+   :width: 100%
    :alt: icono GSE
 
-MANUAL DE HEALTH CHECKER
-=================
+.. raw:: html
 
-XXX-XX-X
-----------------
+   <div style="text-align: center; margin-bottom: 20px; font-size: 2em;">
+      <strong> Manual de usuario Gestor CEA</strong>
+   </div> 
+   <div style="text-align: center; margin-bottom: 20px; font-size: 1.5em;">
+      <strong>XXX-XX-X</strong>
+   </div> 
+
+
 
 Tabla de Contenido
 -------- 
@@ -17,5 +21,8 @@ Tabla de Contenido
    :maxdepth: 4
 
    temario
-   healthChecker
+   LoginAdministradorCEA
+   Administracion
+   Operación
+   Reportes
    controlCambios

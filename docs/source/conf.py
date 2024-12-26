@@ -2,7 +2,7 @@
 
 # -- Project information
 import os
-project = 'Manual de usuario Health Checker'
+project = 'Manual de usuario Gestor CEA'
 copyright = '2024, GSE'
 author = 'GSE'
 
