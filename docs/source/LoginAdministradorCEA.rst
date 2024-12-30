@@ -40,14 +40,14 @@ Al selecionar "continuar" sera direcionado a la pantalla Clientes
 
 En el menú izquierdo de la pantalla podra navegar en los diferentes modulos que son: 
 
-.. image:: ../images/MenuGestor1.png
+.. image:: ../images/MenuGestor.png
    :width: 100%
-   :alt: Menú Administrador
+   :alt: Menú Gestor
 
 .. raw:: html
 
    <div style="text-align: center; margin-bottom: 20px;">
-      <strong><em>Imagen. Menú Administrador</em></strong>
+      <strong><em>Imagen. Menú Gestor</em></strong>
    </div>
 
 **• Administración:**
